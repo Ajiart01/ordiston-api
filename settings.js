@@ -1,11 +1,11 @@
 const fs = require('fs')
 
-global.creator = 'eabdalmufid'  //Isi creator 
-global.MONGO_DB_URI = ""        //Isi Database Mongodb
+global.creator = 'ajiart'  //Isi creator 
+global.MONGO_DB_URI = "mongodb+srv://zeltoria1909:96xAwEIGoHhOO2lR@cluster0.v5c9etv.mongodb.net/?retryWrites=true&w=majority"        //Isi Database Mongodb
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //Isi apa aja bebas
-global.your_email = ""          //Isi Email Untuk Pengiriman Kode
-global.email_password = ""      //Isi Aplikasi Sandi Email Pengeriman Kode
-global.limitCount = 100
+global.your_email = "ajirt01@gmail.com"          //Isi Email Untuk Pengiriman Kode
+global.email_password = "ztthfsbuhsvmvjbo"      //Isi Aplikasi Sandi Email Pengeriman Kode
+global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
     noapikey: {
